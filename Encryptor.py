@@ -17,7 +17,7 @@ def crypted(sentence):
             translation=translation+")"
         elif element in "Hh":
             translation=translation+"'"
-        elif element in "Ii":
+        elif element in "Ii": 
             translation=translation+"q"
         elif element in "Jj":
             translation=translation+"w"
